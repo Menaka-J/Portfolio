@@ -30,11 +30,9 @@ A clean, responsive personal portfolio to showcase my projects, skills, resume, 
 
 ---
 
-## 🚀 Getting Started
 
-To run this portfolio locally:
+ ### 🙌 Author
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Menaka-J/Portfolio.git
-   cd Portfolio
+Menaka J
+🔗 [GitHub](https://github.com/menaka-j)
+💼 [LinkedIn](https://www.linkedin.com/in/menaka-raman-j/) 
